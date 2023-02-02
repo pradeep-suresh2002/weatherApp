@@ -1,1 +1,1 @@
-# weatherApp
+Simple Readme file for the assignment 1
